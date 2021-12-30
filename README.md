@@ -2,7 +2,7 @@
 
 This application was created to allow one to track their spending even if they happen to go offline.
 
-The deployment can be found [here](TODO:)
+The deployment can be found [here](https://stark-beach-18345.herokuapp.com/)
 
 ## Table of Contents
 
