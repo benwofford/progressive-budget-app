@@ -7,25 +7,22 @@ The deployment can be found [here](https://stark-beach-18345.herokuapp.com/)
 ## Table of Contents
 
 - [Screenshots ](#Screenshots)
-- [Features](#Features)
 - [Repository Link](#Repository)
 - [Questions](#Questions)
 
 ## Screenshots
 
-TODO:
-,
-<img src="" />
+This is the baseline of the application with data stored from a previous build via MongoDB,
+<img src="/screenshots/baseline.png" />
 
-,
-<img src="" />
+Here the browser's connectivity has been turned off,
+<img src="/screenshots/offline.png" />
 
-,
-<img src="" />
+So the addition to the database is stored in IndexedDB while offline,
+<img src="/screenshots/storage,png" />
 
-## Features
-
---
+And added once network connectivity is re-established,
+<img src="/screenshots/addition.png" />
 
 ## Repository
 
