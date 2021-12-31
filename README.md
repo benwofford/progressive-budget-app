@@ -19,7 +19,7 @@ Here the browser's connectivity has been turned off,
 <img src="/screenshots/offline.png" />
 
 So the addition to the database is stored in IndexedDB while offline,
-<img src="/screenshots/storage,png" />
+<img src="/screenshots/storage.png" />
 
 And added once network connectivity is re-established,
 <img src="/screenshots/addition.png" />
